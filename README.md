@@ -41,6 +41,12 @@ cd ShoppyGlobe
 ### 2. Install Dependencies
 ```bash
 npm install
+npm install react-router-dom
+npm install @reduxjs/toolkit react-redux
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install react-icons
+
 ```
 
 ### 3. Run the App
